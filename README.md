@@ -1,9 +1,9 @@
 <p align="center">
     <img src="images/banner.png" alt="Banner" />
     <a href="https://discord.com/users/382918201241108481/"><img src="https://img.shields.io/badge/Discord-5764F4?&style=flat-square&logo=Discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://ko-fi.com/B0B73WFJT"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?&style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
-    <a href="mailto:EbaaHelp@outlook.com"><img src="https://img.shields.io/badge/Email-181717.svg?style=flat-square&logo=GMail&logoColor=white" alt="Mail" /></a>
-    <a href="https://ebaa.dev/"><img src="https://img.shields.io/badge/Website-181717?&style=flat-square&logo=Slashdot&logoColor=white" alt="Website" /></a>
+    <a href="https://ko-fi.com/vakea"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?&style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+    <a href="mailto:farfy.dev@gmail.com"><img src="https://img.shields.io/badge/Email-181717.svg?style=flat-square&logo=GMail&logoColor=white" alt="Mail" /></a>
+    <a href="https://ghidorah.uk/"><img src="https://img.shields.io/badge/Website-181717?&style=flat-square&logo=Slashdot&logoColor=white" alt="Website" /></a>
 </p>
   
 Hey! welcome to my profile my name is Vakea, and I'm an 21-year-old self-taught developer who constantly starts new side projects that never get finished, I want to build meaningful and fun projects to make people's lives a little bit better, I'm currently doing web app development and getting into the open source community, You can learn more about the tools I use and my latest projects here! 🐱‍💻
