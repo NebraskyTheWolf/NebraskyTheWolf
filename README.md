@@ -43,8 +43,6 @@ Hey! welcome to my profile my name is Vakea, and I'm an 21-year-old self-taught 
     <img src="https://github-readme-stats.vercel.app/api?username=NebraskyTheWolf&show_icons=true&locale=en&theme=rose_pine&icon_color=27D0BB&bg_color=ffffff00&text_color=2AC19E&hide_border=true" alt="githubStats"/>
 </div>
 
-<div class="footer">
-    &copy; 2022 GHIDORAH.
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=NebraskyTheWolf&left_color=black&right_color=black&left_text=Visitors" alt="visitors"/>
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=NebraskyTheWolf&left_color=black&right_color=black&left_text=Visitors" alt="visitors"/>
+
 
