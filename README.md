@@ -6,7 +6,7 @@
     <a href="https://ghidorah.uk/"><img src="https://img.shields.io/badge/Website-181717?&style=flat-square&logo=Slashdot&logoColor=white" alt="Website" /></a>
 </p>
   
-Hey! welcome to my profile my name is Vakea, and I'm an 21-year-old self-taught developer who constantly starts new side projects that never get finished, I want to build meaningful and fun projects to make people's lives a little bit better, I'm currently doing web app development and getting into the open source community, You can learn more about the tools I use and my latest projects here! 🐱‍🐱‍🐱‍💻
+Hey! welcome to my profile my name is Vakea, and I'm an 22-year-old self-taught developer who constantly starts new side projects that never get finished, I want to build meaningful and fun projects to make people's lives a little bit better, I'm currently doing web app development and getting into the open source community, You can learn more about the tools I use and my latest projects here! 🐱‍🐱‍🐱‍💻
 
 #
 
