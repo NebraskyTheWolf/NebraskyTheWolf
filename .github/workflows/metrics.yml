@@ -32,7 +32,7 @@ jobs:
           user: NebraskyTheWolf
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
+          config_timezone: Europe/Prague
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -106,10 +106,6 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://www.runarmc.net
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
 
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
